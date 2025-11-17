@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugin-database",
+  "owner": {
+    "name": "Nick Garrison",
+    "url": "https://github.com/nickgarrison"
+  },
+  "metadata": {
+    "description": "A comprehensive database of Claude Code plugins for various development needs",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
