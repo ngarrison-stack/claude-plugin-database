@@ -1,0 +1,28 @@
+{
+  "name": "compliance-auditor",
+  "version": "1.0.0",
+  "description": "Regulatory compliance auditing tools for code and documentation review",
+  "author": {
+    "name": "Nick Garrison",
+    "email": "n.garrison@me.com"
+  },
+  "commands": [
+    {
+      "name": "audit-compliance",
+      "description": "Audit code for regulatory compliance issues",
+      "file": "commands/audit-compliance.md"
+    },
+    {
+      "name": "generate-audit-report",
+      "description": "Generate a comprehensive compliance audit report",
+      "file": "commands/generate-audit-report.md"
+    }
+  ],
+  "agents": [
+    {
+      "name": "compliance-reviewer",
+      "description": "Specialized agent for reviewing code against compliance standards",
+      "file": "agents/compliance-reviewer.md"
+    }
+  ]
+}
